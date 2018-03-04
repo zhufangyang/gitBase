@@ -8,3 +8,5 @@ git将一个文件目录变成git仓库 使用 git init命令
 git add readMe.txt
 git commit -m "提交一个文件"
 commit一次可以提交个文件
+
+哎呀 这是一个什么东西 这是一个什么玩意
